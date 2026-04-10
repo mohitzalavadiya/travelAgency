@@ -64,11 +64,11 @@ export default function AboutPage() {
               <SectionHeader
                 pill="Our Mission"
                 title="Redefining the Luxury Travel Experience"
-                subtitle="Founded in 2010, TravelLuxe was born from a passion for the world's most beautiful places and a commitment to providing the ultimate travel experience."
+                subtitle="Founded in 2010, Tripzo was born from a passion for the world's most beautiful places and a commitment to providing the ultimate travel experience."
                 centered={false}
               />
               <p className="text-muted-foreground leading-relaxed">
-                TravelLuxe is an award-winning luxury travel agency specializing in personalized journeys across seven continents. We believe travel should be immersive, authentic, and transformative.
+                Tripzo is an award-winning luxury travel agency specializing in personalized journeys across seven continents. We believe travel should be immersive, authentic, and transformative.
               </p>
               <p className="text-muted-foreground leading-relaxed">
                 Our curated collections of hotels, resorts, and private villas are selected with meticulous care, ensuring you have the most premium experience possible.

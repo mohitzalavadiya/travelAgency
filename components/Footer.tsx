@@ -14,7 +14,7 @@ export const Footer = () => {
                 <Globe size={24} />
               </div>
               <span className="text-2xl font-serif font-bold tracking-tight">
-                TravelLuxe
+                Tripzo
               </span>
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed">
@@ -76,14 +76,14 @@ export const Footer = () => {
               </div>
               <div className="flex items-center gap-3 text-gray-400 text-sm">
                 <Mail className="text-primary" size={18} />
-                <span>hello@travelluxe.com</span>
+                <span>hello@tripzo.com</span>
               </div>
             </div>
           </div>
         </div>
 
         <div className="pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-gray-500 text-xs">
-          <p>© 2024 TravelLuxe Agency. All Rights Reserved.</p>
+          <p>© 2024 Tripzo. All Rights Reserved.</p>
           <div className="flex gap-6">
             <Link href="#" className="hover:text-primary transition-colors">Privacy Policy</Link>
             <Link href="#" className="hover:text-primary transition-colors">Terms of Service</Link>

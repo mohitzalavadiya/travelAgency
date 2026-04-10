@@ -105,7 +105,7 @@ export default async function Home() {
           <div className="flex flex-col lg:flex-row items-center gap-16">
             <div className="lg:w-1/2">
               <SectionHeader
-                pill="Why TravelLuxe"
+                pill="Why Tripzo"
                 title="We Create Experiences, Not Just Vacations"
                 subtitle="Our dedicated team of travel enthusiasts ensures every detail of your trip is handled with the utmost care and precision."
                 centered={false}
@@ -184,7 +184,7 @@ export default async function Home() {
           <SectionHeader
             pill="Testimonials"
             title="Hear From Our Travelers"
-            subtitle="Real stories from our valued customers who embarked on extraordinary journeys with TravelLuxe."
+            subtitle="Real stories from our valued customers who embarked on extraordinary journeys with Tripzo."
           />
           
           {testimonials.length > 0 ? (

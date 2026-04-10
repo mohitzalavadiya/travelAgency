@@ -66,7 +66,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h4 className="text-lg font-serif font-bold text-secondary mb-1">Email</h4>
-                    <p className="text-muted-foreground text-sm leading-relaxed">hello@travelluxe.com<br />support@travelluxe.com</p>
+                    <p className="text-muted-foreground text-sm leading-relaxed">hello@tripzo.com<br />support@tripzo.com</p>
                   </div>
                 </div>
               </div>

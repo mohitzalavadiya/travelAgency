@@ -40,7 +40,7 @@ export const Navbar = () => {
           <span className={`text-2xl font-serif font-bold tracking-tight transition-colors ${
             scrolled ? "text-secondary" : "text-white"
           }`}>
-            TravelLuxe
+            Tripzo
           </span>
         </Link>
 
