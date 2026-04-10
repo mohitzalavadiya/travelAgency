@@ -36,7 +36,7 @@ export const BlogSection = () => {
     <section className="py-32 bg-white">
       <div className="container mx-auto px-6">
         <SectionHeader
-          scriptAccent="Updates & News"
+          pill="Updates & News"
           title="Leatest News & Articles"
         />
 

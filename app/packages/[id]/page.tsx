@@ -80,7 +80,7 @@ export default async function PackageIdPage({ params }: PageProps) {
                       <CheckCircle2 className="text-primary" size={24} /> What&apos;s Included
                     </h3>
                     <ul className="space-y-4">
-                      {pkg.includes.map((item, i) => (
+                      {pkg.includes.map((item: string, i: number) => (
                         <li key={i} className="flex items-start gap-3 text-muted-foreground">
                           <div className="w-1.5 h-1.5 bg-primary rounded-full mt-2" />
                           {item}

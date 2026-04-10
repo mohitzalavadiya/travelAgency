@@ -87,7 +87,7 @@ export const HeroSlider = () => {
               transition={{ delay: 1.1, duration: 0.8 }}
               className="flex flex-col sm:flex-row gap-5 justify-center"
             >
-              <Button variant="thm" href="/packages">
+              <Button variant="primary" href="/packages">
                 Explore Our Tours
               </Button>
               <Button variant="outline" size="lg" href="/about" className="rounded-full px-12 py-7 border-white/30 text-white hover:bg-white hover:text-secondary group transition-all">
