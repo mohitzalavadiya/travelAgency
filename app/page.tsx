@@ -15,6 +15,8 @@ import Package from "@/models/Package";
 import Testimonial from "@/models/Testimonial";
 import Offer from "@/models/Offer";
 
+export const dynamic = 'force-dynamic';
+
 export default async function Home() {
   await dbConnect();
   

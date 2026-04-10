@@ -7,6 +7,8 @@ import { PackageCard } from "@/components/PackageCard";
 import dbConnect from "@/lib/mongodb";
 import Package from "@/models/Package";
 
+export const dynamic = 'force-dynamic';
+
 export default async function PackagesPage() {
   await dbConnect();
   const travelPackages = await Package.find({});
